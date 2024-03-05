@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+section{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.h1 {
+    margin: 20px;
+    font-size: 15pt;
+    margin-left: 30px;
+    display: inline-block;
+    margin-right: 400px;
+
+
+}
+
+.Page {
+    display: flex;
+    align-items: center;
+
+}
+
+a {
+    margin-right: 20px;
+    padding-left: 4px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.section {
+    margin-left: 40px;
+    padding: 20px;
+}
+
+#h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    color: grey;
+}
+
+h1 {
+    font-size: 25pt;
+}
+
+#h2 {
+    font-size: 25pt;
+    position: relative;
+    /* background-image: linear-gradient(to left,red ,blue); */
+    color: rgb(62, 59, 59);
+    font-weight: bold;
+}
+
+.Hire {
+    font-size: 15pt;
+
+    margin-top: 15px;
+    display: inline-block;
+    background-color: rgb(255, 255, 0);
+
+    border: thin;
+    border-radius: 3px;
+    padding: 7px 17px;
+    font-weight: bold;
+
+}
+
+.Hire:hover {
+    background-color: rgb(133, 135, 102);
+    color: white;
+}
+.img{
+    margin-top: 10px;
+
+}
+#f1:hover{
+    background-color: rgb(13, 209, 239);
+    color: white;
+    
+   
+}
+.about{
+    text-align: center;
+    margin-top: 50px;
+   
+}
+#a1{
+    color: grey;
+    font-size: 15px;
+}
+#image2{
+    margin-top: 20px;
+}
+.self{
+
+    text-align: center;
+    margin-top: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+    
+    
+    
+}
+
+
+
+
