@@ -93,17 +93,64 @@ h1 {
 #image2{
     margin-top: 20px;
 }
-.self{
 
-    text-align: center;
-    margin-top: 20%;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
-    font-style: italic;
-    font-weight: bold;
+main{
+    display: flex;
     
+    justify-content: space-between;
+    margin: 150px;
+}
+button{
+    background-color: rgb(240,200,115);
+    border: 0;
+    height: 20pt;
+    width: 50pt;
+}
+#about h1{ 
+    display:flex;
+    justify-content:center;
+    align-items: center;
     
-    
+}
+#about h3{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+#gt{
+    background-color: black;
+    border: solid;
+    color: white;
+    width: 80pt;
+    height: 30pt;
+
+}
+#show{
+    border: 5px;
+}
+#br{ 
+    background-image: linear-gradient(to right, blue 10%,rgba(128, 0, 128, 0.137) );
+    height: 5px;
+    width: 700px;
+}
+
+footer{
+    padding-left: 600px;
+}
+#d{
+    height: 100px;
+    width: 150px;
+    border: solid white;
+    box-shadow: 20px;
+    background-color: antiquewhite;
+    padding: 50px;
+}
+#op{
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+    margin:110px 150px;
+
 }
 
 
