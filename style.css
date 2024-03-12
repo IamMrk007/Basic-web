@@ -157,7 +157,16 @@ footer{
     margin:110px 150px;
 
 }
-
+.task{
+    margin-left: 60px;
+    margin-top: 50px;
+    font-size: 20pt;
+    text-decoration: none;
+   
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.task li{
+    padding: 10px;}
 
 
 
